@@ -1,0 +1,15 @@
+URL:
+
+https://api.pancakeswap.info/api/v2/tokens/0x3d86875413a7d2a1fba4742f7c8f5ac1c19bcd9e
+
+
+Response format:
+
+{"updated_at":1622550954809,
+    "data":{
+        "name":"MegaManToken",
+        "symbol":"Mega",
+        "price":"0.000000004933550719537749463061813703827153",
+        "price_BNB":"0.00000000001549800991438165565374176566409979"
+    }
+}
